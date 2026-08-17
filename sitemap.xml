@@ -1,38 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xhtml="http://www.w3.org/1999/xhtml"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
 
 <url>
   <loc>https://pevo.si/</loc>
-  <lastmod>2021-07-21T14:33:13+00:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="sl" href="https://pevo.si/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://pevo.si/index-eng.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://pevo.si/" />
+  <lastmod>2026-08-17</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://pevo.si/index.html</loc>
-  <lastmod>2021-07-21T14:33:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://pevo.si/Podjetje.html</loc>
-  <lastmod>2021-07-21T14:33:13+00:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="sl" href="https://pevo.si/Podjetje.html" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://pevo.si/podjetje-eng.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://pevo.si/Podjetje.html" />
+  <lastmod>2026-08-17</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://pevo.si/en/index.html</loc>
-  <lastmod>2021-07-21T14:33:13+00:00</lastmod>
+  <loc>https://pevo.si/index-eng.html</loc>
+  <xhtml:link rel="alternate" hreflang="sl" href="https://pevo.si/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://pevo.si/index-eng.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://pevo.si/" />
+  <lastmod>2026-08-17</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://pevo.si/en/Podjetje.html</loc>
-  <lastmod>2021-07-21T12:33:26+00:00</lastmod>
+  <loc>https://pevo.si/podjetje-eng.html</loc>
+  <xhtml:link rel="alternate" hreflang="sl" href="https://pevo.si/Podjetje.html" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://pevo.si/podjetje-eng.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://pevo.si/Podjetje.html" />
+  <lastmod>2026-08-17</lastmod>
   <priority>0.64</priority>
 </url>
-
-
 
 </urlset>
